@@ -478,7 +478,7 @@ color: #FFFFFF;
     max-width: 500px;
   }
   .header_contacts{
-    max-width: 300px;
+    max-width: 500px;
   }
   .header_contacts img{
     max-width: 130px;
@@ -579,6 +579,9 @@ color: #FFFFFF;
   }
   .btn_block-text{
     padding: 5px;
+  }
+  .why_box{
+    max-width: 440px;
   }
   .why_box_inner:nth-of-type(1){
     max-height: 380px;
@@ -682,5 +685,8 @@ color: #FFFFFF;
 .polit{
   font-size: 11px;
   line-height: 5px;
+}
+.inner_icons:nth-of-type(2){
+  margin-top: 10px;
 }
 }
